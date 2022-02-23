@@ -15,3 +15,6 @@ This is an example of application which can help to learn how to work with sqlit
 ![Capture d’écran (51)](https://user-images.githubusercontent.com/57450098/155385898-6c5ab6a9-e3bb-4f8e-a736-98d25c9f1888.png)
 ![Capture d’écran (49)](https://user-images.githubusercontent.com/57450098/155385925-c87000f7-aaac-48fe-b364-764dd9fe3f1c.png)
 ![Capture d’écran (60)](https://user-images.githubusercontent.com/57450098/155385942-49ca70bd-4803-4cc3-a88a-919bd5c2d6ca.png)
+
+# How to use 
+Run the file named restaurant.py to start
